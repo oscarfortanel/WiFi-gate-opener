@@ -1,0 +1,13 @@
+@font-face {
+    font-family: Roboto-Med;
+    src:
+        url('roboto/Roboto-Medium.woff2') format('woff2'),
+        url('Roboto-Medium.woff') format('woff');
+}
+
+@font-face {
+    font-family: Roboto-Lig;
+    src:
+        url('roboto/Roboto-Light.woff2') format('woff2'),
+        url('Roboto-Light.woff') format('woff');
+}
